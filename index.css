@@ -1,0 +1,13 @@
+.bigText {
+    font-size: 70px;
+}
+
+.hRed {
+    color: red;
+}
+
+.firstDiv:hover {
+    background-color: cadetblue;
+    height: 400px;
+    color: red;
+}

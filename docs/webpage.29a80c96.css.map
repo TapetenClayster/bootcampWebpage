@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,SACI,cACJ,CAEA,MACI,SACJ,CAEA,gBACI,wBAA2B,CAC3B,YAAa,CACb,SACJ","file":"webpage.29a80c96.css","sourceRoot":"..","sourcesContent":[".bigText {\n    font-size: 70px;\n}\n\n.hRed {\n    color: red;\n}\n\n.firstDiv:hover {\n    background-color: cadetblue;\n    height: 400px;\n    color: red;\n}"]}
